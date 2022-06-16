@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "150232550232",
+    "project_id": "innova-sport-app22",
+    "storage_bucket": "innova-sport-app22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150232550232:android:e550ebcd84c1ec2279332d",
+        "android_client_info": {
+          "package_name": "com.zuniga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150232550232-1fan51ecgohhh5jc1ikffvg824ng21ut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDICr2LgGG6tqaGBwndQt2lwLyGba2khkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150232550232-1fan51ecgohhh5jc1ikffvg824ng21ut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
